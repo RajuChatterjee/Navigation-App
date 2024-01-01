@@ -1,0 +1,131 @@
+<resources>
+
+    <string name="app_name">Navigation</string>
+
+    <string name="message_number_empty">Enter number</string>
+
+    <string name="message_number_error">Number not registered</string>
+
+    <string name="directChatInfo">Send WA messages.</string>
+
+    <string name="directChatInfoNote"/>
+
+    <string name="enterMessage">Enter Message </string>
+
+    <string name="enterNumber">Enter Number</string>
+
+    <string name="sends">SEND</string>
+
+    <string name="share_message"> Download This app Earn Money </string>
+
+    <string name="versionName"> Version Name = 1.0.0 </string>
+
+    <string name="privacylink" translatable="false">https://statussaving.blogspot.com/p/privacy-policy.html</string>
+
+    <!--admob ids-->
+
+
+    <string name="admob_app_id" translatable="false">ca-app-pub-8683759356959173~5406306823</string>
+
+    <string name="admob_banner_id" translatable="false">ca-app-pub-8683759356959173/3650410017</string>
+
+    <string name="admob_interstitial" translatable="false">ca-app-pub-8683759356959173/5701858281</string>
+
+    <string name="admob_openads" translatable="false">ca-app-pub-8683759356959173/3814061543</string>
+
+    <string name="wapp">WA Status</string>
+
+    <string name="wbapp">WA Business</string>
+
+    <string name="whatsapp_business">WA Business</string>
+
+    <string name="whatsapp_gb">WA GB</string>
+
+    <string name="WA_Status">WA Status</string>
+
+    <string name="WAB_Status">WA Business Status</string>
+
+    <string name="GBWA_Status">GB Status</string>
+
+    <string name="exit_alert">Press back again to Exit</string>
+
+    <string name="english" translatable="false">English</string>
+
+    <string name="hindi" translatable="false">हिंदी</string>
+
+    <string name="arabic" translatable="false">العربية</string>
+
+    <string name="delete_error">Couldn\'t delete some files</string>
+
+    <string name="delete_success">Deleted successfully</string>
+
+    <string name="save_error">Couldn\'t save some files</string>
+
+    <string name="save_success">All Status Are Saved</string>
+
+    <string name="delete_alert">Are you sure , You want to delete selected files ?</string>
+
+    <string name="yes">Yes</string>
+
+    <string name="no">No</string>
+
+    <string name="confirm">Confirm Delete</string>
+
+    <string name="del_status">Are you sure , You Want To Delete This Status ?</string>
+
+    <string name="saved_success">Status saved</string>
+
+    <string name="saved_status">Status Saved</string>
+
+    <string name="photos">Photos</string>
+
+    <string name="videos">Videos</string>
+
+    <string name="repost">Repost</string>
+
+    <string name="status_saver">Status Saver</string>
+
+    <string name="save_all_whatsapp">Download And Save WA Status, WA Business Status And GB WA Status</string>
+
+    <string name="saved_gallery">Saved</string>
+
+    <string name="direct_chat">Chat</string>
+
+    <string name="send_whatsapp">Send WA Messages</string>
+
+    <string name="tap_to_open" translatable="false">Tap to open</string>
+
+    <string name="status_not_available">Status not available</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="select_all">Select All</string>
+
+    <string name="navigation_drawer_open" translatable="false"/>
+
+    <string name="navigation_drawer_close" translatable="false"/>
+
+    <string name="header_text">welcome</string>
+
+    <string name="Menu_Options">Menu Options</string>
+
+    <string name="item1">item1</string>
+
+    <string name="item2">item2</string>
+
+    <string name="item3">item3</string>
+
+    <string name="item4">item4</string>
+
+    <string name="privacy">Privacy Policy </string>
+
+    <string name="rate_us">Rate us</string>
+
+    <string name="share">Share</string>
+
+    <string name="about">About</string>
+
+    <string name="exit">Exit</string>
+
+
+</resources>

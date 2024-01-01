@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+  
+
+    <group android:checkableBehavior="single">
+
+
+
+
+        <item
+            android:id="@+id/privacy_policy"
+            android:orderInCategory="100"
+            android:icon="@drawable/ic_lock"
+            android:title="@string/privacy"
+            app:showAsAction="never"
+            />
+        <item
+            android:id="@+id/rate_us"
+            android:orderInCategory="100"
+            android:icon="@drawable/ic_star"
+            android:title="@string/rate_us"
+            app:showAsAction="never"
+            />
+        <item
+            android:id="@+id/share"
+            android:orderInCategory="100"
+            android:icon="@drawable/ic_share2"
+            android:title="@string/share"
+            app:showAsAction="never"
+            />
+        <item
+            android:id="@+id/about"
+            android:orderInCategory="100"
+            android:icon="@drawable/ic_about"
+            android:title="@string/about"
+            app:showAsAction="never"
+            />
+        <item
+            android:id="@+id/exit"
+            android:orderInCategory="100"
+            android:icon="@drawable/ic_exit"
+            android:title="@string/exit"
+            app:showAsAction="never"
+            />
+
+
+
+    </group>
+
+    <item android:title="@string/Menu_Options">
+
+    <menu >
+        <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/SN1"
+            android:orderInCategory="100"
+            android:title="@string/item1"
+            app:showAsAction="never"
+            android:icon="@drawable/ic_web"
+            />
+        <item
+            android:id="@+id/SN2"
+            android:orderInCategory="100"
+            android:title="@string/item2"
+            android:icon="@drawable/ic_save"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/SN3"
+            android:orderInCategory="100"
+            android:title="@string/item3"
+            android:icon="@drawable/ic_language"
+            app:showAsAction="never"
+            />
+
+        <item
+            android:id="@+id/BN4"
+            android:orderInCategory="100"
+            android:title="@string/item4"
+            android:icon="@drawable/ic_chat"
+            app:showAsAction="never"
+            />
+        </group>
+
+    </menu>
+    </item>
+</menu>
